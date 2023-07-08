@@ -94,4 +94,4 @@ HeroIcons: https://heroicons.com/
 Moment: https://momentjs.com/
 
 ### Live Project
-[https://crypto-verse11.netlify.app/]
+https://crypto-verse11.netlify.app/
