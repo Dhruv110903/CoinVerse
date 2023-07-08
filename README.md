@@ -32,7 +32,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 News Api: https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/
 
-Coin Ranking Api: https://tailwindcss.com/docs/guides/vite](https://rapidapi.com/Coinranking/api/coinranking1/
+Coin Ranking Api: https://rapidapi.com/Coinranking/api/coinranking1/
 
 CoinGecko API: https://www.coingecko.com/en/api/documentation
 
