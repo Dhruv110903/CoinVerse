@@ -1,4 +1,4 @@
-# CryptoVerse
+# CoinVerse
 
 A brief description of what this project does
 ![Project Preview](./cryptoverse1.png)
