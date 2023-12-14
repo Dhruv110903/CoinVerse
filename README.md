@@ -39,4 +39,4 @@ React-router-dom: https://reactrouter.com/docs/en/v6/getting-started/overview
 
 
 ### Live Project
-https://crypto-verse11.netlify.app/
+coinverse1.netlify.app/coins
