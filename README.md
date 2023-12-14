@@ -1,9 +1,9 @@
 # CoinVerse
 
 A brief description of what this project does
-![Project Preview](./sample1.jpg)
-![Project Preview](./sample2.jpg)
-![Project Preview](./sample3.jpg)
+![Project Preview](./sample1.png)
+![Project Preview](./sample2.png)
+![Project Preview](./sample3.png)
 
 # Getting Started with Create React App
 
