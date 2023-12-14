@@ -1,9 +1,9 @@
 # CoinVerse
 
 A brief description of what this project does
-![Project Preview](./picture1.jpg)
-![Project Preview](./picture2.jpg)
-![Project Preview](./picture3.jpg)
+![Project Preview](./sample1.jpg)
+![Project Preview](./sample2.jpg)
+![Project Preview](./sample3.jpg)
 
 # Getting Started with Create React App
 
@@ -29,9 +29,6 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### Link
-
-News Api: https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/
-
 Coin Ranking Api: https://rapidapi.com/Coinranking/api/coinranking1/
 
 CoinGecko API: https://www.coingecko.com/en/api/documentation
